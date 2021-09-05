@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN
+http://201.182.242.135:8001/play/a09a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/800px-Amc_logo.svg.png", AMC
+http://201.220.141.118:8000/play/a0ch/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/TNT1png", TNT
+http://201.182.242.135:8000/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/TNTSERIESpng", TNT Series
+http://201.220.141.118:8000/play/a06l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_black.png", HBO
+http://201.182.242.135:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
+http://201.182.242.135:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Family
+http://161.132.222.196:20000/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
+http://161.132.222.196:20000/play/a0fx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png", FX
+https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Sony1png", SONY CHANNEL HD
+http://201.182.242.135:8001/play/a098/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/SPACE1png", SPACE HD
+http://201.182.242.135:8001/play/a09b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/PARAMOUNTpng", PARAMOUNT CHANNEL
+http://201.220.141.118:8000/play/a06k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Cinemaxxpng", CINEMAX
+http://201.182.242.135:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-q9n_zoXc0OQ/VsBOfhzDYzI/AAAAAAAAz7o/bTb8eLAnuf0/s1600/Cinecanal_logo.jpg", CINECANAL
+http://201.182.242.135:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/MTV1png", MTV
+http://201.182.242.135:8000/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Antena31png", ANTENA 3
+http://91.126.141.13:1935/live/11/1400-def.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Latina1png", LATINA HD
+https://live-latina-mdstrm.secure.footprint.net:443/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fV2OHYlvAXI/YDrCPvjo9mI/AAAAAAAA8NM/TxGT3wp1NngfLgmg1t72Q0WsJ2esdn2lwCLcBGAsYHQ/s1280/Star_Action_2021.png", STAR ACTION
+http://161.132.222.196:20000/play/a0fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/1280px-Star_Channel_2021.png", STAR CHANNEL
+http://161.132.222.196:20000/play/a0g3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/WARNERTVpng", WARNER TV
+http://201.220.141.118:8000/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Hispng", HISTORY CHANNEL
+http://balancer1.iptvmx.com:8081/tecno/HistoryChann.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png", NATIONAL GEOGRAPHIC
+https://qlobbidev.s.llnwi.net/bpk-tv/NATGEO/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/NGEOGpng", ANIMAL PLANET
+http://201.182.242.135:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png", DISCOVERY CHANNEL
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryChannel.TecnoByte/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-3.png", DISCOVERY H&H
+http://161.132.222.196:20000/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/TLC1png", TLC
+http://201.182.242.135:8000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Esspnpng", ESPN
+http://161.132.222.196:20000/play/a0fh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/ESPN_2_Argentina.png", ESPN 2
+http://201.182.242.135:8001/play/a09d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
+http://201.182.242.135:8001/play/a09r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", FOX SPORTS
+http://201.182.242.135:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2
+http://161.132.222.196:20000/play/a0fg/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png", FOX SPORTS 3
+http://161.132.222.196:20000/play/a0fh/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2-768x236.png", TNT SPORTS HD
+http://201.182.242.135:8001/play/a09c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png", WIN SPORTS HD
+http://201.182.242.135:8001/play/a09f/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/logo-Gol-Peru-289x300.png", GOL PERU
+http://161.132.222.196:20000/play/a0m6/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png", DIRECTV SPORTS
+http://161.132.222.196:20000/play/a0mg/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/800px-DirecTV_Sports_2_Latin_America_%282018%29.png", DIRECTV SPORTS 2
+http://161.132.222.196:20000/play/a0mb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png", DIRECTV SPORTS +
+http://161.132.222.196:20000/play/a0mc/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/1280px-Afizzionados_Logo.svg.png", AFIZIONADOS
+http://balancer1.iptvmx.com:8081/tecno/Afizzionados.Tecnobyte/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1024px-TyC_Sports_logo.svg.png", TYC SPORTS
+http://161.132.222.196:20000/play/a0fl/index.m3u8
